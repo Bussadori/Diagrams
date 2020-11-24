@@ -1,27 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T14:34:04.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Vrd7_1PtKCbFkXYSUefu" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T16:38:55.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="AA8qod4vdxFNkIMfic_S" version="13.10.0" type="github">
   <diagram id="EFN823GxzViHja12csrd" name="Page-1">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="220" width="510" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DPQKeQTVG6DPs1rEyEgf-1" target="DPQKeQTVG6DPs1rEyEgf-1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DPQKeQTVG6DPs1rEyEgf-1" target="DPQKeQTVG6DPs1rEyEgf-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="470" y="820" as="sourcePoint" />
             <mxPoint x="440" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DPQKeQTVG6DPs1rEyEgf-4" target="DPQKeQTVG6DPs1rEyEgf-8">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPQKeQTVG6DPs1rEyEgf-4" target="DPQKeQTVG6DPs1rEyEgf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-18" value="Diferença entre &lt;br&gt;PBE x SF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DPQKeQTVG6DPs1rEyEgf-9">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-18" value="Diferença entre &lt;br&gt;PBE x SF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DPQKeQTVG6DPs1rEyEgf-9" vertex="1" connectable="0">
           <mxGeometry x="-0.256" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPQKeQTVG6DPs1rEyEgf-4" target="DPQKeQTVG6DPs1rEyEgf-23">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DPQKeQTVG6DPs1rEyEgf-4" target="DPQKeQTVG6DPs1rEyEgf-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="310" />
@@ -29,43 +29,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-25" value="Consultar Feriados e Horários ùteis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DPQKeQTVG6DPs1rEyEgf-24">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-25" value="Consultar Feriados e Horários ùteis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DPQKeQTVG6DPs1rEyEgf-24" vertex="1" connectable="0">
           <mxGeometry x="0.57" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-4" value="ECs no PBE e info de&amp;nbsp;Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-4" value="ECs no PBE e info de&amp;nbsp;Contrato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-6" value="SF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-6" value="SF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-7" value="PBE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-7" value="PBE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPQKeQTVG6DPs1rEyEgf-8" target="DPQKeQTVG6DPs1rEyEgf-10">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DPQKeQTVG6DPs1rEyEgf-8" target="DPQKeQTVG6DPs1rEyEgf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-8" value="Processa ECs enviados e retorna o que está Ativo, os que foram atualizados e os Novos ECs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-8" value="Processa ECs enviados e retorna o que está Ativo, os que foram atualizados e os Novos ECs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPQKeQTVG6DPs1rEyEgf-10" target="DPQKeQTVG6DPs1rEyEgf-12">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DPQKeQTVG6DPs1rEyEgf-10" target="DPQKeQTVG6DPs1rEyEgf-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-16" value="Contratos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DPQKeQTVG6DPs1rEyEgf-13">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-16" value="Contratos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DPQKeQTVG6DPs1rEyEgf-13" vertex="1" connectable="0">
           <mxGeometry x="0.2943" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPQKeQTVG6DPs1rEyEgf-10">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="DPQKeQTVG6DPs1rEyEgf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="625" as="targetPoint" />
             <Array as="points">
@@ -73,30 +73,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-17" value="Novos ECs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DPQKeQTVG6DPs1rEyEgf-15">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-17" value="Novos ECs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DPQKeQTVG6DPs1rEyEgf-15" vertex="1" connectable="0">
           <mxGeometry x="0.085" y="-52" relative="1" as="geometry">
             <mxPoint x="-52" y="54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-10" value="Lista de ECs que foram desativados e que possuem novo contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-10" value="Lista de ECs que foram desativados e que possuem novo contrato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-12" value="Fee Parametrization&lt;br&gt;Discount Agrement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-12" value="Fee Parametrization&lt;br&gt;Discount Agrement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-19" value="Merchant Data&lt;br&gt;Fee Parametrization&lt;br&gt;Discount Agrement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-19" value="Merchant Data&lt;br&gt;Fee Parametrization&lt;br&gt;Discount Agrement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-20" value="SafraPay ID&lt;br&gt;Id Contrato&lt;br&gt;Novo Id Contrato&lt;br&gt;Status: Inativo&lt;br&gt;Novos SafraPay ID&lt;br&gt;Novos ID Contratos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-20" value="SafraPay ID&lt;br&gt;Id Contrato&lt;br&gt;Novo Id Contrato&lt;br&gt;Status: Inativo&lt;br&gt;Novos SafraPay ID&lt;br&gt;Novos ID Contratos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="355" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-21" value="SafraPay ID&lt;br&gt;Id Contrato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-21" value="SafraPay ID&lt;br&gt;Id Contrato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="250" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-22" value="SafraPay ID&lt;br&gt;Id Contrato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-22" value="SafraPay ID&lt;br&gt;Id Contrato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="560" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DPQKeQTVG6DPs1rEyEgf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPQKeQTVG6DPs1rEyEgf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
